@@ -23,4 +23,4 @@ Uninstalling OpenClaw via standard package managers often leaves behind backgrou
 You can run the script directly using:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/DevRagUnity/cleanOpenClaw/main/cleanup.sh](https://raw.githubusercontent.com/DevRagUnity/cleanOpenClaw/main/cleanup.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/DevRagUnity/cleanOpenClaw/main/cleanOpenClaw.sh | bash
